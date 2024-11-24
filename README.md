@@ -1,5 +1,7 @@
 # Esi – Store Items Management System (ESIMS)
 
+![Logo](https://github.com/Habtom-Weldu/Store-Items-MS-Public-Information/blob/main/Images/logo.PNG)
+
 ## Introduction
 
 A professionally managed store has processes in place to receive incoming materials, store them until they are needed, and then issue them for use. The **Esi – Store Items Management System (ESIMS)** is designed to enhance the efficiency of these processes, shifting store management from manual to a more streamlined, computerized system.
@@ -33,3 +35,16 @@ The **Esi – Store Items Management System** can be run as a standalone desktop
   - **Tools**: Draw.IO, Microsoft Excel
   - **Version Controller and Repository management**: Git, GitHub.
 
+![Login](https://github.com/Habtom-Weldu/Store-Items-MS-Public-Information/blob/main/Images/1.PNG)
+
+![Image](https://github.com/Habtom-Weldu/Store-Items-MS-Public-Information/blob/main/Images/2.png)
+
+![Image](https://github.com/Habtom-Weldu/Store-Items-MS-Public-Information/blob/main/Images/3.png)
+
+![Image](https://github.com/Habtom-Weldu/Store-Items-MS-Public-Information/blob/main/Images/4.png)
+
+![Image](https://github.com/Habtom-Weldu/Store-Items-MS-Public-Information/blob/main/Images/5.png)
+
+![Image](https://github.com/Habtom-Weldu/Store-Items-MS-Public-Information/blob/main/Images/6.png)
+
+![Image](https://github.com/Habtom-Weldu/Store-Items-MS-Public-Information/blob/main/Images/7.png)
