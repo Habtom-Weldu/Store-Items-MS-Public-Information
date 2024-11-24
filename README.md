@@ -48,3 +48,5 @@ The **Esi – Store Items Management System** can be run as a standalone desktop
 ![Image](https://github.com/Habtom-Weldu/Store-Items-MS-Public-Information/blob/main/Images/6.png)
 
 ![Image](https://github.com/Habtom-Weldu/Store-Items-MS-Public-Information/blob/main/Images/7.png)
+
+![Image](https://github.com/Habtom-Weldu/Store-Items-MS-Public-Information/blob/main/Images/UserManual.png)
